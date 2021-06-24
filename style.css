@@ -1,0 +1,17 @@
+.hide {
+   display: none;
+}
+
+.car {
+   width: 50px;
+   height: 100px;
+   background: transparent url('./image/player.png') center / cover no-repeat;
+}
+
+.gameArea {
+   width: 300px;
+   height: 100%;
+   position: relative;
+   margin: auto;
+   background: #222;
+}
